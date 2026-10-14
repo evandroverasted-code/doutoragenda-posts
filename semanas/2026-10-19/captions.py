@@ -120,6 +120,21 @@ Marque um homem que precisa desse lembrete 👊
 
 {H} #novembroazul #saudedohomem #urologista #checkup"""),
 ]
+# Instagram: máximo 5 hashtags por post (regra desde dez/2025). Ranking em HASHTAGS.md.
+TAGS = {
+ 'p1': '#londrina #londrinapr #outubrorosa #mamografia #saudedamulher',
+ 'p2': '#londrina #londrinando #consultamedica #clinicamedica #medicinapreventiva',
+ 'r3': '#londrina #londrinapr #endocrinologia #emagrecimentocomsaude #saudeemprimeirolugar',
+ 'p4': '#londrina #londrinando #exames #exameslaboratoriais #laboratorioclinico',
+ 'p5': '#londrina #londrinapr #checkup #medicinapreventiva #examesderotina',
+ 'r6': '#londrina #londrinando #consultamedica #clinicamedica #saudeemprimeirolugar',
+ 'p7': '#londrina #londrinapr #dengue #prevencao #saudepublica',
+ 'p8': '#londrina #londrinando #novembroazul #saudedohomem #checkup',
+}
+for p in posts:
+    linhas = [l for l in p['legenda'].rstrip().split('\n') if not l.startswith('#')]
+    p['legenda'] = '\n'.join(linhas).rstrip() + '\n\n' + TAGS[p['id']]
+    assert p['legenda'].count('#') == 5, p['id']
 for p in posts:
     assert p['arquivos'], p['id']
     assert len(p['legenda']) <= 2200, (p['id'], len(p['legenda']))

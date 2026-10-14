@@ -42,7 +42,9 @@ Mix mínimo: 2 de exames, 2 de consultas, 2 de dicas/virais, 2 reels.
 - Nunca: diagnóstico, dose, nome de remédio como recomendação, promessa de cura/resultado, antes/depois,
   preço que não foi confirmado pelo Ted, depoimento inventado.
 - Conteúdo de saúde leva "Conteúdo informativo, não substitui consulta médica."
-- Hashtags: `#londrina #londrinapr #norteparana #semplanodesaude #saudeacessivel #doutoragenda` + 3–4 do tema.
+- Hashtags: **no máximo 5 por post** (regra do Instagram). Use o ranking e os conjuntos de `HASHTAGS.md`:
+  `#londrina` + 1 local rotativa + 2 do tema (100 mil–1 mi) + 1 de apoio. Não repita as mesmas 5 em todos os posts.
+  No captions.py, defina `TAGS` por post (ver modelo da semana 2026-10-19).
 - Legenda ≤ 2.200 caracteres.
 
 ## 4. Arte (motor em `engine/`)
