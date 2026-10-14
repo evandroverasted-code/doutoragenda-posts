@@ -1,0 +1,4 @@
+node_modules
+semanas/*/html/
+semanas/*/frames/
+__pycache__/
