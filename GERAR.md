@@ -1,7 +1,9 @@
 # Gerar a semana de posts do Doutor Agenda
 
 Rotina da tarefa programada "Doutor Agenda — gerar semana" (quintas 09:47, horário de Brasília) e da skill
-`doutor-agenda-posts`. Gera a semana seguinte (segunda a domingo) e deixa `status: "pendente"` até o Ted aprovar.
+`doutor-agenda-posts`. Gera uma semana (segunda a domingo) e deixa `status: "pendente"` até o Ted aprovar.
+
+**Semana alvo:** a primeira segunda-feira futura que ainda NÃO tem pasta em `semanas/` (se a próxima já existe, gere a seguinte; nunca sobrescreva uma semana existente).
 
 ## Setup (sessão nova)
 ```bash
