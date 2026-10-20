@@ -32,8 +32,10 @@
           "quando": "2026-10-19T14:54:18Z"
         },
         "facebook": {
-          "ok": false,
-          "erro": "Execução bloqueada pela permissão do ambiente automático (ação Zapier facebook_pages_create_page_photo negada antes de chegar ao Facebook). Publicar manualmente pelo Meta Business Suite."
+          "ok": true,
+          "id": "2018258928221781_1782037936935491",
+          "quando": "2026-10-20T08:33:06Z",
+          "obs": "Já havia sido publicado (fora da rotina) antes do reenvio manual de 20/10 15:11Z, que gerou duplicata 2018258928221781_1782358166903468 — Ted deve apagar uma das duas."
         }
       }
     },
@@ -49,12 +51,15 @@
       "legenda": "Consulta com especialista sem plano de saúde? Tem, sim 💚\n\nGinecologia, cardiologia, dermatologia, endocrinologia, ortopedia, pediatria e outras especialidades, com preço acessível aqui em Londrina.\n\nVocê escolhe o especialista, vê o valor antes e agenda tudo pelo WhatsApp. Envie o código ORG-CONSULTA-1020.\n📲 WhatsApp oficial: (43) 98829-7260, ou toque no link da bio\n\n#londrina #londrinando #consultamedica #clinicamedica #medicinapreventiva",
       "publicado": {
         "instagram": {
-          "ok": false,
-          "erro": "Execução bloqueada pela permissão do ambiente automático (ação Zapier instagram_for_business_publish_photo_s negada antes de chegar à Meta). Publicar manualmente pelo Meta Business Suite."
+          "ok": true,
+          "id": "18081449939357114",
+          "permalink": "https://www.instagram.com/p/DeuHz8wl0l-/",
+          "quando": "2026-10-20T15:10:01Z"
         },
         "facebook": {
-          "ok": false,
-          "erro": "Execução bloqueada pela permissão do ambiente automático (ação Zapier facebook_pages_create_page_photo negada antes de chegar à Meta). Publicar manualmente pelo Meta Business Suite."
+          "ok": true,
+          "id": "2018258928221781_1782357673570184",
+          "quando": "2026-10-20T15:10:49Z"
         }
       }
     },
