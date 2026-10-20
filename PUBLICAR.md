@@ -5,7 +5,8 @@ Rotina executada pela tarefa programada "Doutor Agenda — publicar posts" (todo
 ## Valores fixos (NUNCA trocar, NUNCA publicar em outra conta)
 - Instagram @doutoragenda → Zapier app **Instagram for Business**, `instagramPageId` = `17841410873155652`
 - Página Facebook **Doutor Agenda** → Zapier app **Facebook Pages**, `page` = `2018258928221781`
-- A conexão Zapier (ted_veras@hotmail.com) enxerga outras contas (Sohoostyle, Monnet, clientes). Use somente os dois IDs acima.
+- YouTube canal **Doutor Agenda** (@doutoragenda) → Zapier app **YouTube**, canal `UCl1tl8NrgfZqxif3YO_IpjQ`, categoria `27` (Education)
+- A conexão Zapier (ted_veras@hotmail.com) enxerga outras contas (Sohoostyle, Monnet, clientes). Use somente os IDs acima.
 
 ## Passos
 1. Repositório: `add_repo` evandroverasted-code/doutoragenda-posts (access push) e clone em `/home/claude/doutoragenda-posts`.

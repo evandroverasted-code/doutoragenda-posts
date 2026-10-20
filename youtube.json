@@ -1,6 +1,6 @@
 {
   "canal": "@doutoragenda",
-  "categoria_id": null,
+  "categoria_id": "27",
   "videos": [
     {
       "chave": "2026-10-14/reels_oferta",
@@ -30,5 +30,6 @@
       "instagram": "https://www.instagram.com/reel/DemKnrmDA8D/",
       "publicado": null
     }
-  ]
+  ],
+  "canal_id": "UCl1tl8NrgfZqxif3YO_IpjQ"
 }
