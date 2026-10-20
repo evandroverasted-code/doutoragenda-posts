@@ -1,4 +1,4 @@
-# Publicar os posts do turno (Instagram + Facebook via Zapier)
+# Publicar os posts do turno (Instagram + Facebook + YouTube Shorts via Zapier)
 
 Rotina executada pela tarefa programada "Doutor Agenda — publicar posts" (todo dia 11:52 e 18:52, horário de Brasília).
 
@@ -27,8 +27,19 @@ Rotina executada pela tarefa programada "Doutor Agenda — publicar posts" (todo
    Nunca tente o mesmo post mais de 2 vezes na mesma execução. Nunca republicar um post já `ok`.
 7. Confirme: leitura `instagram_for_business_new_media_posted_in_my_acco` (deve aparecer a mídia nova) e
    `facebook_pages_new_post_by_you`.
-8. Avise o Ted (mensagem curta): o que saiu, links/IDs, e qualquer erro com a sugestão de publicar manualmente
-   pelo Meta Business Suite. Se nada era do turno, encerre sem mensagem.
+8. **YouTube Shorts** (canal @doutoragenda) — o mesmo Reels, depois que saiu `ok` no Instagram:
+   - `python3 engine/youtube_fila.py` (adiciona à `youtube.json` todo Reels já `ok` no Instagram e lista os pendentes).
+   - Para cada vídeo com `publicado == null`: Zapier app **YouTube**, `youtube_upload_video` →
+     `video` = `video_url`, `title` = `titulo`, `description` = `descricao`, `tags` = `tags`,
+     `privacy_status` = `public`, `made_for_kids` = `false`, `notify_subscribers` = `true`,
+     `category_id` = `youtube.json → categoria_id` (se `null`, resolva com `inspect_zapier_actions` → "Education" e grave).
+   - Antes do primeiro envio de cada execução, confirme no `connections.default` do YouTube que a conta é o canal
+     do Doutor Agenda. Se não houver conexão do YouTube, pule este passo e avise o Ted uma vez.
+   - Grave `publicado` = `{"ok": true, "id": <videoId>, "url": "https://youtube.com/shorts/<videoId>", "quando": ISO}`
+     ou `{"ok": false, "erro": "..."}`; commit e push. Mesmas regras: máx. 2 tentativas, nunca republicar um `ok`.
+   - Vídeo vertical 1080x1920 com menos de 60 s o YouTube classifica sozinho como Short.
+9. Avise o Ted (mensagem curta): o que saiu, links/IDs, e qualquer erro com a sugestão de publicar manualmente
+   pelo Meta Business Suite (ou YouTube Studio). Se nada era do turno, encerre sem mensagem.
 
 ## Regras
 - Nunca turbinar, nunca criar anúncio, nunca gastar.
