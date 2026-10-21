@@ -37,7 +37,8 @@ Mix mínimo: 2 de exames, 2 de consultas, 2 de dicas/virais, 2 reels.
 
 ## 3. Regras de conteúdo (obrigatórias)
 - Público: pessoas sem plano de saúde em Londrina e região. Tom simples, acolhedor, direto.
-- CTA único: WhatsApp oficial **(43) 98829-7260** / link da bio. Código de rastreio por post: `ORG-<TEMA>-<MMDD>`.
+- CTA único: WhatsApp oficial **(43) 98829-7260** / link da bio.
+- **Nunca** pedir para o cliente enviar código (ex.: "Envie o código ORG-…") na legenda nem na arte: desestimula o contato (decisão do Ted, 21/10/2026).
 - "até 50% de desconto*" só para **exames**, sempre com `*em relação ao preço particular de tabela.`
 - Nunca: diagnóstico, dose, nome de remédio como recomendação, promessa de cura/resultado, antes/depois,
   preço que não foi confirmado pelo Ted, depoimento inventado.
@@ -63,5 +64,5 @@ Mix mínimo: 2 de exames, 2 de consultas, 2 de dicas/virais, 2 reels.
 - Commit + push (`out/` entra no git; `html/` e `frames/` não).
 
 ## 6. Aprovação
-- Envie ao Ted a folha de contatos + os 2 reels + resumo da pauta (dia, tema, código).
+- Envie ao Ted a folha de contatos + os 2 reels + resumo da pauta (dia, tema).
 - Só quando ele aprovar: `status: "aprovado"`, commit e push. Ajustes pedidos: corrigir, renderizar, reenviar.

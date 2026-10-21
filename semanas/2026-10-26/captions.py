@@ -20,7 +20,7 @@ posts = [
 3️⃣ Mamografia: a partir dos 40 anos, em decisão conjunta com o médico; dos 50 aos 74, o rastreamento regular é indicado
 4️⃣ Conheça o seu corpo: notou nódulo, secreção ou qualquer mudança nas mamas? Procure um médico, em qualquer idade
 
-Sem plano de saúde? Agende sua consulta com ginecologista e faça seus exames em Londrina, com até 50% de desconto* nos exames. Envie o código ORG-MULHER-1026.
+Sem plano de saúde? Agende sua consulta com ginecologista e faça seus exames em Londrina, com até 50% de desconto* nos exames.
 {WA}
 
 Compartilhe com uma mulher que você ama 💗
@@ -33,7 +33,7 @@ Pela Diretriz Brasileira de Hipertensão Arterial 2025 (Sociedade Brasileira de 
 
 A ideia é descobrir cedo e cuidar antes que vire hipertensão. Pressão alta muitas vezes não dá sintomas, por isso medir e acompanhar com um médico faz diferença.
 
-Sem plano de saúde? Agende sua consulta com cardiologista ou clínico geral em Londrina, com preço acessível. Envie o código ORG-PRESSAO-1027.
+Sem plano de saúde? Agende sua consulta com cardiologista ou clínico geral em Londrina, com preço acessível.
 {WA}
 
 {INFO}"""),
@@ -47,7 +47,7 @@ O caminho seguro:
 2️⃣ Exames, se o médico pedir
 3️⃣ Alimentação e atividade física, que são a base do cuidado
 
-Cuide com quem entende: consulta com endocrinologista e exames em Londrina, sem plano de saúde. Envie o código ORG-INSULINA-1027.
+Cuide com quem entende: consulta com endocrinologista e exames em Londrina, sem plano de saúde.
 {WA}
 
 {INFO}"""),
@@ -59,7 +59,7 @@ Cuide com quem entende: consulta com endocrinologista e exames em Londrina, sem 
 ❌ MITO: só idoso precisa medir. O médico indica quando e com que frequência fazer o exame
 ✅ VERDADE: histórico na família pesa. Conte ao seu médico se há casos de colesterol alto ou doença do coração
 
-Já tem o pedido médico? Faça seu orçamento grátis com até 50% de desconto* nos exames. Envie o código ORG-COLEST-1028.
+Já tem o pedido médico? Faça seu orçamento grátis com até 50% de desconto* nos exames.
 {WA}
 
 Salve e mande para quem diz que "não precisa" 📌
@@ -76,7 +76,7 @@ U: Urgente. Notou algum sinal? Ligue 192 na hora. No AVC, cada minuto conta.
 
 Pressão alta, diabetes, colesterol alto, cigarro e obesidade aumentam o risco. Muitos deles não dão sinais, e só a consulta e os exames de rotina mostram.
 
-Prevenir começa no check-up: consulta com clínico geral ou cardiologista e exames com até 50% de desconto*, sem plano de saúde. Envie o código ORG-AVC-1029.
+Prevenir começa no check-up: consulta com clínico geral ou cardiologista e exames com até 50% de desconto*, sem plano de saúde.
 {WA}
 
 Salve este post e compartilhe. Ele pode ajudar alguém 🙏
@@ -90,7 +90,6 @@ Exames com até 50% de desconto* em Londrina, sem plano de saúde. Simples assim
 ✔️ Receba o orçamento grátis
 ✔️ Agende o seu exame
 
-Envie o código ORG-EXAMES-1030.
 {WA}
 
 {D}"""),
@@ -104,7 +103,7 @@ Os meteorologistas alertam para mais ondas de calor até o fim do ano. Na nossa 
 
 Confusão, desmaio ou mal-estar forte: procure atendimento na hora.
 
-Precisa de consulta com clínico geral sem plano de saúde? Agende pelo WhatsApp. Envie o código ORG-CALOR-1031.
+Precisa de consulta com clínico geral sem plano de saúde? Agende pelo WhatsApp.
 {WA}
 
 {INFO}"""),
@@ -118,7 +117,7 @@ Homem, a sua vez de se cuidar:
 
 Converse com o urologista sobre o exame de próstata e o momento certo para você.
 
-Consulta e exames sem plano de saúde em Londrina, com até 50% de desconto* nos exames. Envie o código ORG-AZUL-1101.
+Consulta e exames sem plano de saúde em Londrina, com até 50% de desconto* nos exames.
 {WA}
 
 Marque um homem que precisa desse lembrete 👊

@@ -19,7 +19,7 @@ posts = [
 ✅ Histórico de câncer de mama ou ovário na família pede atenção antes
 ⚠️ Nódulo, pele repuxada ou secreção no mamilo: procure um médico em qualquer idade
 
-Sem plano de saúde? Agende sua consulta com ginecologista ou mastologista e faça sua mamografia em Londrina. Exames com até 50% de desconto*. Envie o código ORG-ROSA-1019.
+Sem plano de saúde? Agende sua consulta com ginecologista ou mastologista e faça sua mamografia em Londrina. Exames com até 50% de desconto*.
 {WA}
 
 Compartilhe com uma mulher que você ama 💗
@@ -32,7 +32,7 @@ Compartilhe com uma mulher que você ama 💗
 
 Ginecologia, cardiologia, dermatologia, endocrinologia, ortopedia, pediatria e outras especialidades, com preço acessível aqui em Londrina.
 
-Você escolhe o especialista, vê o valor antes e agenda tudo pelo WhatsApp. Envie o código ORG-CONSULTA-1020.
+Você escolhe o especialista, vê o valor antes e agenda tudo pelo WhatsApp.
 {WA}
 
 {H} #consultamedica #especialista #medicolondrina"""),
@@ -43,7 +43,7 @@ Você escolhe o especialista, vê o valor antes e agenda tudo pelo WhatsApp. Env
 2️⃣ Avaliação e exames: o médico avalia o seu caso e pode pedir exames antes de começar
 3️⃣ Acompanhamento: durante o uso, ele ajuda a evitar riscos à saúde
 
-Faça do jeito certo: consulta com endocrinologista e exames em Londrina, sem plano de saúde. Envie o código ORG-CANETA-1020.
+Faça do jeito certo: consulta com endocrinologista e exames em Londrina, sem plano de saúde.
 {WA}
 
 {INFO}
@@ -57,7 +57,7 @@ Faça do jeito certo: consulta com endocrinologista e exames em Londrina, sem pl
 ❌ MITO: colesterol só em jejum. Muitos laboratórios já aceitam sem jejum, se o médico não pedir o contrário
 ✅ VERDADE: água pode!
 
-Sempre confirme o preparo com o laboratório. Já tem o pedido? Orçamento grátis com até 50% de desconto*. Envie o código ORG-JEJUM-1021.
+Sempre confirme o preparo com o laboratório. Já tem o pedido? Orçamento grátis com até 50% de desconto*.
 {WA}
 
 Salve para lembrar no dia do exame 📌
@@ -74,7 +74,7 @@ Salve para lembrar no dia do exame 📌
 4️⃣ Peso mudou sem explicação
 5️⃣ Passou dos 40 e nunca fez um check-up
 
-Se marcou pelo menos um, o primeiro passo é uma consulta com o clínico geral. Ele pede os exames certos, e a gente faz o orçamento com até 50% de desconto*. Envie o código ORG-SINAIS-1022.
+Se marcou pelo menos um, o primeiro passo é uma consulta com o clínico geral. Ele pede os exames certos, e a gente faz o orçamento com até 50% de desconto*.
 {WA}
 
 Marque alguém que precisa ver isso 👀
@@ -89,7 +89,6 @@ Marque alguém que precisa ver isso 👀
 ✔️ Veja o valor antes
 ✔️ Agende pelo WhatsApp
 
-Envie o código ORG-ESPEC-1023.
 {WA}
 
 {H} #consultamedica #especialista #medicolondrina"""),
@@ -100,7 +99,7 @@ Fique atento aos sinais: febre alta, dor atrás dos olhos, dor no corpo e mancha
 
 E não esqueça: 10 minutos por semana eliminando água parada já fazem diferença na sua casa.
 
-Precisa de consulta com clínico geral sem plano de saúde? Agende pelo WhatsApp. Envie o código ORG-DENGUE-1024.
+Precisa de consulta com clínico geral sem plano de saúde? Agende pelo WhatsApp.
 {WA}
 
 {INFO}
@@ -111,7 +110,7 @@ Precisa de consulta com clínico geral sem plano de saúde? Agende pelo WhatsApp
 
 Novembro Azul está chegando. Converse com um urologista sobre o momento certo para o exame de próstata e coloque os exames de rotina em dia.
 
-Consulta e exames sem plano de saúde em Londrina, com exames com até 50% de desconto*. Envie o código ORG-AZUL-1025.
+Consulta e exames sem plano de saúde em Londrina, com exames com até 50% de desconto*.
 {WA}
 
 Marque um homem que precisa desse lembrete 👊
