@@ -60,6 +60,9 @@ Mix na semana: pelo menos 1 de exames e 1 de consultas. IDs: `p1` (seg), `p2` (q
 
 ## 5b. YouTube Shorts (2 por semana: terça e quinta, 18:52)
 Objetivo: **constância** no canal @doutoragenda. São vídeos próprios, separados dos posts do Instagram/Facebook.
+- **Semana dos Shorts:** sempre a semana que começa na PRÓXIMA segunda-feira (independe da semana alvo dos posts),
+  para o assunto estar fresco. Se `youtube.json` já tem `<segunda>/s1` e `s2`, pule. Se a pasta da semana já existe
+  (posts aprovados), só acrescente `shorts.py`, `out/s1.mp4`, `out/s2.mp4` e as fontes; não mexa no resto.
 - Pauta: assuntos de saúde **do momento no Brasil** (notícia da semana, alerta da Anvisa/Ministério, tema viral,
   campanha do mês), sempre trazidos para **quem mora em Londrina** (onde fazer, o que muda aqui) e fechando com
   consulta/exames sem plano no WhatsApp. Não repetir o tema dos Reels da mesma semana. Fonte recente em `FONTES.md`.
