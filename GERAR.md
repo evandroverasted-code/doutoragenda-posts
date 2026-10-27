@@ -1,7 +1,7 @@
 # Gerar a semana de posts do Doutor Agenda
 
 Rotina da tarefa programada "Doutor Agenda — gerar semana" (quintas 09:47, horário de Brasília) e da skill
-`doutor-agenda-posts`. Gera uma semana (segunda a domingo) e deixa `status: "pendente"` até o Ted aprovar.
+`doutor-agenda-posts`. Gera uma semana (seg, qua e sex) e deixa `status: "pendente"` até o Ted aprovar.
 
 **Semana alvo:** a primeira segunda-feira futura que ainda NÃO tem pasta em `semanas/` (se a próxima já existe, gere a seguinte; nunca sobrescreva uma semana existente).
 
@@ -21,19 +21,14 @@ cd /home/claude/doutoragenda-posts && npm i --no-audit --no-fund   # Chromium j�
   Na dúvida, escreva de forma geral e mande "converse com o seu médico".
 - Registre as fontes em `semanas/<data>/FONTES.md`.
 
-## 2. Pauta (8 posts por semana)
+## 2. Pauta (3 posts por semana — seg, qua, sex; decisão do Ted, 27/10/2026)
 | Slot | Formato | Linha |
 |---|---|---|
-| Seg manhã | Carrossel | tema do mês / campanha (educativo) |
-| Ter manhã | Imagem | consultas com especialista sem plano |
-| Ter noite | Reels | tema viral do momento + cuidado + especialista |
-| Qua manhã | Carrossel | mito ou verdade / dúvida de exame |
-| Qui manhã | Carrossel | check-up / lista de sinais / "salve este post" |
-| Sex noite | Reels | oferta: exames até 50%* ou consultas |
-| Sáb manhã | Imagem | alerta sazonal / dica rápida |
-| Dom manhã | Imagem | lembrete leve / campanha que vem |
-Sempre: ligar o assunto a **agendar com um especialista** ou **fazer o orçamento de exames** no WhatsApp.
-Mix mínimo: 2 de exames, 2 de consultas, 2 de dicas/virais, 2 reels.
+| Seg 11:52 (manha) | Carrossel | tema do mês / campanha ou assunto de saúde em alta (educativo) |
+| Qua 11:52 (manha) | Carrossel | exames: mito ou verdade / dúvida de exame / check-up |
+| Sex 18:52 (noite) | Reels | tema viral do momento + cuidado + especialista, ou oferta (exames até 50%* / consultas) |
+Sempre: assuntos de saúde relevantes do momento, ligando a **agendar com um especialista** ou **fazer o orçamento de exames** no WhatsApp.
+Mix na semana: pelo menos 1 de exames e 1 de consultas. IDs: `p1` (seg), `p2` (qua), `r3` (sex).
 
 ## 3. Regras de conteúdo (obrigatórias)
 - Público: pessoas sem plano de saúde em Londrina e região. Tom simples, acolhedor, direto.
@@ -64,5 +59,5 @@ Mix mínimo: 2 de exames, 2 de consultas, 2 de dicas/virais, 2 reels.
 - Commit + push (`out/` entra no git; `html/` e `frames/` não).
 
 ## 6. Aprovação
-- Envie ao Ted a folha de contatos + os 2 reels + resumo da pauta (dia, tema).
+- Envie ao Ted a folha de contatos + o reels + resumo da pauta (dia, tema).
 - Só quando ele aprovar: `status: "aprovado"`, commit e push. Ajustes pedidos: corrigir, renderizar, reenviar.

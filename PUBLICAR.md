@@ -1,6 +1,6 @@
 # Publicar os posts do turno (Instagram + Facebook + YouTube Shorts via Zapier)
 
-Rotina executada pela tarefa programada "Doutor Agenda — publicar posts" (todo dia 11:52 e 18:52, horário de Brasília).
+Rotina executada pela tarefa programada "Doutor Agenda — publicar posts" (seg, qua e sex, 11:52 e 18:52, horário de Brasília).
 
 ## Valores fixos (NUNCA trocar, NUNCA publicar em outra conta)
 - Instagram @doutoragenda → Zapier app **Instagram for Business**, `instagramPageId` = `17841410873155652`
@@ -14,7 +14,7 @@ Rotina executada pela tarefa programada "Doutor Agenda — publicar posts" (todo
 3. Abra `semanas/*/posts.json` cuja semana contém hoje. Só continue se `status == "aprovado"`.
    Se estiver `pendente`, NÃO publique: avise o Ted que a semana ainda aguarda aprovação.
 4. Selecione os posts com `data == hoje` e (`turno` == turno atual, ou `manha` atrasado se agora é `noite`)
-   e com `publicado.instagram` ou `publicado.facebook` ainda `null`.
+   (ignore a lista `cancelados`) e com `publicado.instagram` ou `publicado.facebook` ainda `null`.
 5. Para cada post, URLs públicas = `base_url + arquivo` (na ordem de `arquivos`). Antes de executar, confirme os
    nomes de parâmetros com `inspect_zapier_actions` (tool_name abaixo).
    - **imagem / carrossel**
