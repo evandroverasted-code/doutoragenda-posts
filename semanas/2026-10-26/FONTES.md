@@ -10,3 +10,8 @@
 - Calor em Londrina (Folha de Londrina): https://www.folhadelondrina.com.br/cidades/calor-retorna-e-londrina-deve-ter-maximas-acima-de-30c-3328022e.html
 - Contexto (não usado na arte): vírus respiratórios em alta no país, InfoGripe/Fiocruz 08/10/2026: https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/virus-respiratorios-ainda-estao-em-alta-no-pais-alerta-fiocruz
 - Novembro Azul / saúde do homem (ANS): https://www.gov.br/ans/pt-br/assuntos/noticias/beneficiario/novembro-azul-ans-enfatiza-habitos-para-a-reducao-de-risco-do-cancer-de-prostata
+
+## YouTube Shorts (s1 ter 27/10, s2 qui 29/10)
+- s1 — Anvisa proíbe picolé com melatonina e suplemento proteico (Cotia Todo Dia, 27/10/2026): https://cotiatododia.com.br/anvisa-proibe-comercializacao-de-picole-com-melatonina-e-suplemento-proteico-por-falta-de-avaliacao-de-seguranca/
+- s2 — 3 milhões de adolescentes sem a 2ª dose da vacina da dengue (O Tempo / A Crítica, 26/10/2026, dados do PNI/Ministério da Saúde): https://www.otempo.com.br/saude-e-bem-estar/2026/10/26/tres-milhoes-de-adolescentes-estao-com-vacinacao-incompleta-para-a-dengue · https://acritica.net/saude/mais-de-3-milhoes-de-adolescentes-ainda-precisam-completar-vacinacao-contra-dengue/
+- s2 — Qdenga nas UBSs de Londrina para 10 a 14 anos, 2 doses (Prefeitura de Londrina): https://blog.londrina.pr.gov.br/?p=215120

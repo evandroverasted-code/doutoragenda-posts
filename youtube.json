@@ -58,7 +58,62 @@
         "url": "https://youtube.com/shorts/NffFjC8EWxU",
         "quando": "2026-10-20T21:58:32Z"
       }
+    },
+    {
+      "chave": "2026-10-26/s1",
+      "data": "2026-10-27",
+      "turno": "noite",
+      "aprovado": false,
+      "tipo": "short",
+      "tema": "Anvisa proíbe picolé com melatonina e suplemento proteico",
+      "video_url": "https://raw.githubusercontent.com/evandroverasted-code/doutoragenda-posts/main/semanas/2026-10-26/out/s1.mp4",
+      "titulo": "Picolé com melatonina foi proibido pela Anvisa. Entenda! | Londrina",
+      "descricao": "Picolé com melatonina? A Anvisa proibiu a venda, a fabricação e o consumo (26/10/2026).\n\n1️⃣ Melatonina e inositol não são permitidos em sorvete ou picolé.\n2️⃣ Um suplemento de proteína também foi proibido: ingrediente sem avaliação de segurança e propaganda irregular.\n3️⃣ Não compre nem consuma esses lotes.\n\nDorme mal? Sono ruim tem causa. Consulta com clínico geral em Londrina, sem plano de saúde, com preço acessível.\n\n📲 Agende pelo WhatsApp oficial do Doutor Agenda: https://wa.me/5543988297260\n(43) 98829-7260 · doutoragenda.com\n\nConteúdo informativo, não substitui consulta médica.\n\n#londrina #londrinando #parana #Shorts #londrinaofficial #londrinapr #cambe #arapongas #apucarana #anvisa",
+      "tags": [
+        "Doutor Agenda",
+        "Londrina",
+        "Anvisa",
+        "melatonina",
+        "sono",
+        "sem plano de saúde",
+        "consulta médica Londrina"
+      ],
+      "fonte": "https://cotiatododia.com.br/anvisa-proibe-comercializacao-de-picole-com-melatonina-e-suplemento-proteico-por-falta-de-avaliacao-de-seguranca/",
+      "publicado": null
+    },
+    {
+      "chave": "2026-10-26/s2",
+      "data": "2026-10-29",
+      "turno": "noite",
+      "aprovado": false,
+      "tipo": "short",
+      "tema": "3 milhões de adolescentes sem a 2ª dose da vacina da dengue",
+      "video_url": "https://raw.githubusercontent.com/evandroverasted-code/doutoragenda-posts/main/semanas/2026-10-26/out/s2.mp4",
+      "titulo": "Vacina da dengue: seu filho tomou a 2ª dose? | Londrina",
+      "descricao": "3 milhões de adolescentes ainda não tomaram a 2ª dose da vacina da dengue (Ministério da Saúde, out/2026).\n\n1️⃣ No SUS, a vacina é para crianças e adolescentes de 10 a 14 anos.\n2️⃣ São 2 doses: a 2ª é 3 meses depois da 1ª.\n3️⃣ Em Londrina, é de graça na Unidade Básica de Saúde. Leve a caderneta.\n\nCalor e chuva: a dengue volta. Precisa de consulta com pediatra ou clínico geral sem plano de saúde? Agende pelo WhatsApp.\n\n📲 Agende pelo WhatsApp oficial do Doutor Agenda: https://wa.me/5543988297260\n(43) 98829-7260 · doutoragenda.com\n\nConteúdo informativo, não substitui consulta médica.\n\n#londrina #londrinando #parana #Shorts #londrinaofficial #londrinapr #cambe #arapongas #apucarana #dengue",
+      "tags": [
+        "Doutor Agenda",
+        "Londrina",
+        "vacina da dengue",
+        "dengue",
+        "pediatra Londrina",
+        "sem plano de saúde"
+      ],
+      "fonte": "https://www.otempo.com.br/saude-e-bem-estar/2026/10/26/tres-milhoes-de-adolescentes-estao-com-vacinacao-incompleta-para-a-dengue ; https://blog.londrina.pr.gov.br/?p=215120",
+      "publicado": null
     }
   ],
-  "canal_id": "UCl1tl8NrgfZqxif3YO_IpjQ"
+  "canal_id": "UCl1tl8NrgfZqxif3YO_IpjQ",
+  "espelhar_reels": false,
+  "hashtags_londrina": [
+    "#londrina",
+    "#londrinando",
+    "#parana",
+    "#Shorts",
+    "#londrinaofficial",
+    "#londrinapr",
+    "#cambe",
+    "#arapongas",
+    "#apucarana"
+  ]
 }

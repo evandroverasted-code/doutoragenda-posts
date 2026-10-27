@@ -28,17 +28,19 @@ Rotina executada pela tarefa programada "Doutor Agenda — publicar posts" (seg,
    Nunca tente o mesmo post mais de 2 vezes na mesma execução. Nunca republicar um post já `ok`.
 7. Confirme: leitura `instagram_for_business_new_media_posted_in_my_acco` (deve aparecer a mídia nova) e
    `facebook_pages_new_post_by_you`.
-8. **YouTube Shorts** (canal @doutoragenda) — o mesmo Reels, depois que saiu `ok` no Instagram:
-   - `python3 engine/youtube_fila.py` (adiciona à `youtube.json` todo Reels já `ok` no Instagram e lista os pendentes).
-   - Para cada vídeo com `publicado == null`: Zapier app **YouTube**, `youtube_upload_video` →
-     `video` = `video_url`, `title` = `titulo`, `description` = `descricao`, `tags` = `tags`,
-     `privacy_status` = `public`, `made_for_kids` = `false`, `notify_subscribers` = `true`,
-     `category_id` = `youtube.json → categoria_id` (se `null`, resolva com `inspect_zapier_actions` → "Education" e grave).
-   - Antes do primeiro envio de cada execução, confirme no `connections.default` do YouTube que a conta é o canal
-     do Doutor Agenda. Se não houver conexão do YouTube, pule este passo e avise o Ted uma vez.
+8. **YouTube Shorts** (canal @doutoragenda) — Shorts próprios, 2x por semana (terça e quinta, turno `noite`):
+   - `python3 engine/youtube_fila.py` lista a fila de `youtube.json` e marca `PUBLICAR AGORA` o que está pronto.
+   - Publique só vídeos com `publicado == null`, `aprovado == true`, `data <= hoje` e `turno` == turno atual
+     (ou `manha`/`noite` de dia anterior que ficou atrasado). Se `aprovado == false` e a data é hoje, NÃO publique:
+     avise o Ted que o Short do dia aguarda aprovação.
+   - Zapier app **YouTube**, `youtube_upload_video` → `video` = `video_url`, `title` = `titulo`, `description` = `descricao`,
+     `tags` = `tags`, `privacy_status` = `public`, `made_for_kids` = `false`, `notify_subscribers` = `true`,
+     `category_id` = `youtube.json → categoria_id` (27, Education).
+   - Antes do primeiro envio, confirme com `youtube_make_api_get_request` (`/youtube/v3/channels?part=snippet&mine=true`)
+     que o canal é `UCl1tl8NrgfZqxif3YO_IpjQ` (Doutor Agenda). Se não for ou não houver conexão, não publique e avise o Ted.
    - Grave `publicado` = `{"ok": true, "id": <videoId>, "url": "https://youtube.com/shorts/<videoId>", "quando": ISO}`
-     ou `{"ok": false, "erro": "..."}`; commit e push. Mesmas regras: máx. 2 tentativas, nunca republicar um `ok`.
-   - Vídeo vertical 1080x1920 com menos de 60 s o YouTube classifica sozinho como Short.
+     ou `{"ok": false, "erro": "..."}`; commit e push. Máx. 2 tentativas, nunca republicar um `ok`.
+   - `espelhar_reels` = `false`: os Reels do Instagram NÃO vão mais para o YouTube (decisão do Ted, 27/10/2026).
 9. Avise o Ted (mensagem curta): o que saiu, links/IDs, e qualquer erro com a sugestão de publicar manualmente
    pelo Meta Business Suite (ou YouTube Studio). Se nada era do turno, encerre sem mensagem.
 

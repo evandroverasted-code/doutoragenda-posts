@@ -1,4 +1,6 @@
-"""Monta/atualiza a fila do YouTube Shorts (youtube.json) a partir dos Reels já publicados no Instagram.
+"""Fila do YouTube Shorts (youtube.json).
+Desde 27/10/2026: Shorts próprios 2x/semana (terça e quinta, turno noite), gerados com a semana (GERAR.md),
+com `aprovado` por vídeo. Com `espelhar_reels: true` volta a copiar os Reels já publicados no Instagram.
 
 Uso:  python3 engine/youtube_fila.py          -> atualiza youtube.json e lista o que está pendente
 Regra: só entra na fila o Reels que já está `ok` no Instagram (mesma arte aprovada, mesmo vídeo).
@@ -44,7 +46,9 @@ def carregar():
 def main():
     fila = carregar()
     chaves = {v['chave'] for v in fila['videos']}
-    for pj in sorted(glob.glob(os.path.join(RAIZ, 'semanas', '*', 'posts.json'))):
+    espelhar = fila.get('espelhar_reels', True)   # false = Shorts próprios (ter/qui), sem copiar os Reels
+    semanas = sorted(glob.glob(os.path.join(RAIZ, 'semanas', '*', 'posts.json'))) if espelhar else []
+    for pj in semanas:
         sem = json.load(open(pj, encoding='utf-8'))
         for p in sem['posts']:
             ig = (p.get('publicado') or {}).get('instagram')
@@ -64,10 +68,15 @@ def main():
             })
             chaves.add(chave)
     json.dump(fila, open(FILA, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+    import datetime as dt
+    hoje = (dt.datetime.now(dt.timezone.utc) - dt.timedelta(hours=3)).date().isoformat()   # America/Sao_Paulo
     pend = [v for v in fila['videos'] if not v['publicado']]
-    print(f"{len(pend)} pendente(s) no YouTube:")
+    print(f"{len(pend)} pendente(s) no YouTube (hoje {hoje}):")
     for v in pend:
-        print(' -', v['chave'], '|', v['titulo'])
+        st = 'APROVADO' if v.get('aprovado', True) else 'aguarda aprovação'
+        quando = f"{v.get('data', '-')} {v.get('turno', '')}"
+        pronto = v.get('aprovado', True) and v.get('data', hoje) <= hoje
+        print(f" - {v['chave']} | {quando} | {st} | {'PUBLICAR AGORA' if pronto else 'ainda não'} | {v['titulo']}")
 
 
 if __name__ == '__main__':

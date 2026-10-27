@@ -58,6 +58,24 @@ Mix na semana: pelo menos 1 de exames e 1 de consultas. IDs: `p1` (seg), `p2` (q
 - `python3 semanas/<data>/captions.py` gera `posts.json` (ver modelo). `status: "pendente"`.
 - Commit + push (`out/` entra no git; `html/` e `frames/` não).
 
+## 5b. YouTube Shorts (2 por semana: terça e quinta, 18:52)
+Objetivo: **constância** no canal @doutoragenda. São vídeos próprios, separados dos posts do Instagram/Facebook.
+- Pauta: assuntos de saúde **do momento no Brasil** (notícia da semana, alerta da Anvisa/Ministério, tema viral,
+  campanha do mês), sempre trazidos para **quem mora em Londrina** (onde fazer, o que muda aqui) e fechando com
+  consulta/exames sem plano no WhatsApp. Não repetir o tema dos Reels da mesma semana. Fonte recente em `FONTES.md`.
+- Arte: `semanas/<segunda>/shorts.py` (modelo: `semanas/2026-10-26/shorts.py`), ids `s1` (terça) e `s2` (quinta),
+  1080x1920, ~15 s: gancho com número/pergunta → 3 cenas → CTA. Render: `node engine/render.js semanas/<data> s`.
+  Revise os frames como nos Reels.
+- Fila: acrescente em `youtube.json → videos` um item por Short (`chave` `<segunda>/s1`, `data`, `turno: "noite"`,
+  `aprovado: false`, `video_url` = base_url + `s1.mp4`, `titulo` ≤ 70 caracteres terminando em `| Londrina`,
+  `descricao`, `tags`, `fonte`, `publicado: null`). Modelo: itens `2026-10-26/s1` e `s2`.
+- Descrição: texto do vídeo + link https://wa.me/5543988297260 + "(43) 98829-7260 · doutoragenda.com" +
+  "Conteúdo informativo, não substitui consulta médica." + hashtags.
+- **Hashtags (YouTube): as de maior volume de Londrina, não precisam ser de saúde** — `youtube.json → hashtags_londrina`
+  (#londrina #londrinando #parana #Shorts #londrinaofficial #londrinapr #cambe #arapongas #apucarana) + 1 do tema.
+  As 3 primeiras aparecem acima do título. Máximo 15 no total (acima disso o YouTube ignora todas).
+- Na aprovação da semana, envie também os 2 Shorts; quando o Ted aprovar, marque `aprovado: true` nos dois.
+
 ## 6. Aprovação
-- Envie ao Ted a folha de contatos + o reels + resumo da pauta (dia, tema).
-- Só quando ele aprovar: `status: "aprovado"`, commit e push. Ajustes pedidos: corrigir, renderizar, reenviar.
+- Envie ao Ted a folha de contatos + o reels + os 2 Shorts + resumo da pauta (dia, tema).
+- Só quando ele aprovar: `status: "aprovado"` (e `aprovado: true` nos Shorts da semana em `youtube.json`), commit e push. Ajustes pedidos: corrigir, renderizar, reenviar.
