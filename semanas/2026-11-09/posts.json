@@ -1,0 +1,68 @@
+{
+ "semana": "2026-11-09",
+ "status": "pendente",
+ "instagram_account_id": "17841410873155652",
+ "facebook_page_id": "2018258928221781",
+ "base_url": "https://raw.githubusercontent.com/evandroverasted-code/doutoragenda-posts/main/semanas/2026-11-09/out/",
+ "turnos": {
+  "manha": "11:52",
+  "noite": "18:52"
+ },
+ "posts": [
+  {
+   "id": "p1",
+   "data": "2026-11-09",
+   "turno": "manha",
+   "tipo": "carrossel",
+   "tema": "Novembro Azul — saúde do homem vai além da próstata",
+   "arquivos": [
+    "p1_1.png",
+    "p1_2.png",
+    "p1_3.png",
+    "p1_4.png",
+    "p1_5.png",
+    "p1_6.png"
+   ],
+   "legenda": "Novembro Azul não é só próstata 💙 4 cuidados que todo homem deveria ter no radar 👇\n\n📊 Homem vai menos ao médico: 69% dos homens consultaram um médico em 1 ano. Entre as mulheres, 82% (Pesquisa Nacional de Saúde/IBGE)\n❤️ Pressão alta: muitas vezes não dá sintomas. Medir a pressão faz parte de uma consulta simples\n🩸 Diabetes e obesidade: estão entre os cuidados contínuos que o Ministério da Saúde destaca para os homens\n🧠 Saúde mental: ansiedade, estresse e tristeza que não passa também são assunto para o médico\n\nUma consulta por ano já é um começo. Clínico geral ou urologista em Londrina, sem plano de saúde. Exames com até 50% de desconto*.\n📲 WhatsApp oficial: (43) 98829-7260, ou toque no link da bio\n\nCompartilhe com um homem que você ama 💙\nConteúdo informativo, não substitui consulta médica.\n*em relação ao preço particular de tabela.\n\n#londrina #londrinando #novembroazul #saudedohomem #clinicamedica",
+   "publicado": {
+    "instagram": null,
+    "facebook": null
+   }
+  },
+  {
+   "id": "p2",
+   "data": "2026-11-11",
+   "turno": "manha",
+   "tipo": "carrossel",
+   "tema": "Mito ou verdade — jejum para exame de sangue",
+   "arquivos": [
+    "p2_1.png",
+    "p2_2.png",
+    "p2_3.png",
+    "p2_4.png",
+    "p2_5.png",
+    "p2_6.png"
+   ],
+   "legenda": "Exame de sangue: precisa mesmo de 12 horas de jejum? 🤔 Mito ou verdade 👇\n\n❌ MITO: colesterol sempre pede 12h de jejum. Desde 2016, sociedades médicas brasileiras deixaram de exigir jejum para colesterol e triglicerídeos na maioria dos casos\n✅ VERDADE: glicemia de jejum pede 8 horas. Para esse exame, o mínimo de 8 horas continua valendo\n❌ MITO: quanto mais jejum, melhor. Jejum acima de 16 horas não é recomendado para a maioria dos exames\n✅ VERDADE: a hemoglobina glicada pode ser feita sem jejum\n\nCada exame tem o seu preparo: na dúvida, confirme com o seu médico ou com o laboratório antes da coleta.\n\nPedido médico em mãos? Faça seu orçamento grátis. Exames em Londrina, sem plano de saúde, com até 50% de desconto*.\n📲 WhatsApp oficial: (43) 98829-7260, ou toque no link da bio\n\nSalve para lembrar antes do próximo exame 📌\nConteúdo informativo, não substitui consulta médica.\n*em relação ao preço particular de tabela.\n\n#londrina #londrinapr #exameslaboratoriais #exames #examesderotina",
+   "publicado": {
+    "instagram": null,
+    "facebook": null
+   }
+  },
+  {
+   "id": "r3",
+   "data": "2026-11-13",
+   "turno": "noite",
+   "tipo": "reels",
+   "tema": "Trend de parar o protetor solar x dermatologista",
+   "arquivos": [
+    "r3.mp4"
+   ],
+   "legenda": "Trend nas redes: parar de usar protetor solar? Não caia nessa ☀️\n\nO câncer de pele não melanoma é o tipo de câncer mais comum no Brasil, segundo o INCA. E o verão está chegando.\n\n3 cuidados do Ministério da Saúde:\n1️⃣ Protetor todo dia: FPS 15 ou mais, reaplicando a cada 2 horas, mesmo com tempo nublado\n2️⃣ Fuja do sol forte: entre 10h e 16h, procure sombra. Chapéu e óculos ajudam\n3️⃣ Olho nas pintas: mudou de tamanho, forma ou cor, coça ou sangra? Procure um dermatologista\n\nConsulta com dermatologista em Londrina, sem plano de saúde, com preço acessível.\n📲 WhatsApp oficial: (43) 98829-7260, ou toque no link da bio\n\nMande para quem vive dizendo que \"não precisa de protetor\" 😉\nConteúdo informativo, não substitui consulta médica.\n\n#londrina #londrinaofficial #dermatologia #consultamedica #prevencao",
+   "publicado": {
+    "instagram": null,
+    "facebook": null
+   }
+  }
+ ]
+}

@@ -11,3 +11,8 @@
 - Sarampo: 52 casos em 2026, todos importados; vacina gratuita no SUS (Ministério da Saúde, out/2026): https://brasil61.com/n/sarampo-brasil-registra-52-casos-em-2026-todos-importados-bras2617252
   e https://www.jb.com.br/bem-viver/saude/2026/10/1061142-sarampo-nas-americas-leva-brasil-a-reforcar-vigilancia-e-vacinacao.html
 - Contexto (não usado na arte): dengue em queda em Londrina em 2026: https://blog.londrina.pr.gov.br/?p=242318
+
+## YouTube Shorts (pesquisa em 29/10/2026)
+- s1 — Anvisa suspende propaganda das gotas Glifit e Glicofit ("regulador de glicose", "limpa o pâncreas"); suplemento não pode alegar tratar doença (RE 4224, 26/10/2026; Agência Brasil, 28/10/2026): https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-suspende-propaganda-enganosa-de-suplementos-alimentares
+- s2 — Novembro Azul 2026, documento orientador do Ministério da Saúde: PNS 2019, 69,4% dos homens x 82,3% das mulheres consultaram médico em 12 meses: https://admin.atencaoprimaria.rs.gov.br/upload/arquivos/202610/22165757-documento-orientador-novembro-azul-2026-oficial.pdf
+- s2 — SBU: avaliação a partir dos 50 anos (45 com mais risco): https://portaldaurologia.org.br/novidades/noticias/aconselhamento-para-o-diagnostico-precoce-do-cancer-de-prostata

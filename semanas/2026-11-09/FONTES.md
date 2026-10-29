@@ -1,0 +1,7 @@
+# Fontes — semana 09 a 15/11/2026 (pesquisa em 29/10/2026)
+- Novembro Azul 2026 — Documento orientador do Ministério da Saúde (SAPS): saúde integral do homem; PNS 2019: 69,4% dos homens x 82,3% das mulheres consultaram médico em 12 meses; cuidado contínuo de hipertensão, diabetes, obesidade; saúde mental prioritária: https://admin.atencaoprimaria.rs.gov.br/upload/arquivos/202610/22165757-documento-orientador-novembro-azul-2026-oficial.pdf
+- Jejum para colesterol/triglicerídeos não obrigatório (SBPC/ML, SBC, SBAC, 2016); glicemia mantém 8h: https://www.bahianoticias.com.br/estadao/noticia/152866-entidades-medicas-flexibilizam-jejum-de-12h-para-exames-de-colesterol
+- Jejum acima de 16h não recomendado; hemoglobina glicada sem jejum (Lab Rede, com base no Consenso Brasileiro): https://www.labrede.com.br/portal/files/lab.com-jejum-para-exames-laboratoriais-v2-maio-2018.pdf
+- Câncer de pele não melanoma é o mais frequente no Brasil (INCA, estimativa 2026–2028, 04/02/2026): https://www.gov.br/inca/pt-br/assuntos/noticias/2026/inca-estima-781-mil-novos-casos-de-cancer-por-ano-no-brasil-entre-2026-e-2028
+- Prevenção (sol 10h–16h, FPS 15+, reaplicar a cada 2h, sinais em pintas) — Ministério da Saúde: https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/c/cancer-de-pele
+- Trends #NoSunscreen / Caveman Skincare (dermatologista alerta): https://www.olhardireto.com.br/conceito/noticias/riscos-das-trends-no-tiktok-dermatologista-alerta-para-praticas-como-caveman-skincare-e-nosunscreen
