@@ -105,7 +105,12 @@
         "sem plano de saúde"
       ],
       "fonte": "https://www.otempo.com.br/saude-e-bem-estar/2026/10/26/tres-milhoes-de-adolescentes-estao-com-vacinacao-incompleta-para-a-dengue ; https://blog.londrina.pr.gov.br/?p=215120",
-      "publicado": null
+      "publicado": {
+        "ok": true,
+        "id": "-DKw7X9aLcQ",
+        "url": "https://youtube.com/shorts/-DKw7X9aLcQ",
+        "quando": "2026-10-29T21:55:22Z"
+      }
     },
     {
       "chave": "2026-11-02/s1",
