@@ -79,7 +79,12 @@
         "consulta médica Londrina"
       ],
       "fonte": "https://cotiatododia.com.br/anvisa-proibe-comercializacao-de-picole-com-melatonina-e-suplemento-proteico-por-falta-de-avaliacao-de-seguranca/",
-      "publicado": null
+      "publicado": {
+        "ok": true,
+        "id": "gFGFLgNskJw",
+        "url": "https://youtube.com/shorts/gFGFLgNskJw",
+        "quando": "2026-10-29T15:00:06Z"
+      }
     },
     {
       "chave": "2026-10-26/s2",
