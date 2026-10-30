@@ -81,8 +81,14 @@
       ],
       "legenda": "Pedido de exame parado na gaveta? 📄\n\nExames com até 50% de desconto* em Londrina, sem plano de saúde. Simples assim:\n✔️ Mande a foto do pedido no WhatsApp\n✔️ Receba o orçamento grátis\n✔️ Agende o seu exame\n\n📲 WhatsApp oficial: (43) 98829-7260, ou toque no link da bio\n\n*em relação ao preço particular de tabela.\n\n#londrina #londrinapr #exames #laboratorioclinico #exameslaboratoriais",
       "publicado": {
-        "instagram": null,
-        "facebook": null
+        "instagram": {
+          "ok": false,
+          "erro": "Zapier: limite de tarefas do plano atingido no período de cobrança (2026-10-30 noite)"
+        },
+        "facebook": {
+          "ok": false,
+          "erro": "Zapier: limite de tarefas do plano atingido no período de cobrança (2026-10-30 noite)"
+        }
       }
     }
   ],
