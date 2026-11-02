@@ -28,8 +28,9 @@ Rotina executada pela tarefa programada "Doutor Agenda — publicar posts" (seg 
 6. Grave o resultado em `publicado.instagram` / `publicado.facebook`
    (`{"ok": true, "id": ..., "quando": ISO}` ou `{"ok": false, "erro": "..."}`), faça commit e push.
    Nunca tente o mesmo post mais de 2 vezes na mesma execução. Nunca republicar um post já `ok`.
-7. Confirme: leitura `instagram_for_business_new_media_posted_in_my_acco` (deve aparecer a mídia nova) e
-   `facebook_pages_new_post_by_you`.
+7. ~~Confirmação por leitura~~ — REMOVIDO (decisão do Ted, 02/11/2026: plano grátis do Zapier, 100 tarefas/mês,
+   2 tarefas por chamada). Não faça leituras de confirmação no Instagram/Facebook; o ID devolvido pela publicação
+   é a confirmação. Não chame ações extras do Zapier além das necessárias para publicar.
 8. **YouTube Shorts** (canal @doutoragenda) — Shorts próprios, 2x por semana (terça e quinta, turno `noite`):
    - `python3 engine/youtube_fila.py` lista a fila de `youtube.json` e marca `PUBLICAR AGORA` o que está pronto.
    - Publique só vídeos com `publicado == null`, `aprovado == true`, `data <= hoje` e `turno` == turno atual
@@ -49,5 +50,5 @@ Rotina executada pela tarefa programada "Doutor Agenda — publicar posts" (seg 
 ## Regras
 - Nunca turbinar, nunca criar anúncio, nunca gastar.
 - Nunca editar legenda ou arte na hora de publicar; publique exatamente o que foi aprovado.
-- Se um carrossel no Facebook sair como vários posts separados (verificar no passo 7), avise o Ted e,
-  nas próximas semanas, publique no Facebook só a capa do carrossel com a legenda completa (anote em `NOTAS.md`).
+- Carrossel no Facebook: sem a leitura de confirmação, não dá para checar se saiu como vários posts separados.
+  Ao publicar um carrossel, lembre o Ted na mensagem final de conferir a página do Facebook.
