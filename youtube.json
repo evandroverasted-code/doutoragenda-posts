@@ -132,7 +132,10 @@
         "sem plano de saúde"
       ],
       "fonte": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-suspende-propaganda-enganosa-de-suplementos-alimentares",
-      "publicado": null
+      "publicado": {
+        "ok": false,
+        "erro": "Zapier: limite de tarefas do plano atingido (2026-11-03 noite)"
+      }
     },
     {
       "chave": "2026-11-02/s2",
