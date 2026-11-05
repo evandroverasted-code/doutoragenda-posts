@@ -156,7 +156,12 @@
         "sem plano de saúde"
       ],
       "fonte": "https://admin.atencaoprimaria.rs.gov.br/upload/arquivos/202610/22165757-documento-orientador-novembro-azul-2026-oficial.pdf ; https://portaldaurologia.org.br/novidades/noticias/aconselhamento-para-o-diagnostico-precoce-do-cancer-de-prostata",
-      "publicado": null
+      "publicado": {
+        "ok": true,
+        "id": "65yS3yBYBio",
+        "url": "https://youtube.com/shorts/65yS3yBYBio",
+        "quando": "2026-11-05T21:53:44Z"
+      }
     },
     {
       "chave": "2026-11-09/s1",
