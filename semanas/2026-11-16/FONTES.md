@@ -1,0 +1,7 @@
+# Fontes — semana 16 a 22/11/2026 (pesquisa em 05/11/2026)
+- Novembro Roxo / prematuridade: bebê prematuro = nascido antes de 37 semanas; após a alta, acompanhar crescimento, alimentação, respiração e desenvolvimento neurológico; DRG Brasil (jan/2022–jun/2026): 75.301 internações de prematuros, 1.789 readmissões nos primeiros 30 dias, icterícia em 69,4% delas (Agência Brasil, 03/11/2026): https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/novembro-roxo-alerta-para-cuidados-com-prematuros-apos-alta
+- 17/11 Dia Mundial da Prematuridade (BVS/Ministério da Saúde): https://bvsms.saude.gov.br/garanta-aos-prematuros-comecos-saudaveis-para-futuros-brilhantes-17-11-dia-mundial-da-prematuridade-2025/
+- PSA — SBU: consulta com urologista a partir dos 50 anos; 45 para negros e quem tem histórico familiar; periodicidade anual ou a cada alguns anos definida pelo urologista; decisão compartilhada: https://portaldaurologia.org.br/novidades/noticias/esclarecimento-ao-publico-sobre-a-importancia-do-psa-na-deteccao-precoce-do-cancer-de-prostata
+- PSA pode subir por condições benignas (hiperplasia, prostatite) — INCA, detecção precoce do câncer de próstata: https://www.gov.br/inca/pt-br/assuntos/cancer/tipos/prostata
+- Novembro Azul 2026 (contexto): https://gtnoticias.com.br/2026/11/novembro-azul-2026-amplia-acesso-a-consultas-e-exames-preventivos-pelo-sus/
+- Reels r3 (oferta check-up): sem dado de saúde; desconto "até 50%*" em relação ao preço particular de tabela (regra da marca).

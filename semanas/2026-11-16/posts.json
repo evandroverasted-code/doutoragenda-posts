@@ -1,0 +1,68 @@
+{
+ "semana": "2026-11-16",
+ "status": "pendente",
+ "instagram_account_id": "17841410873155652",
+ "facebook_page_id": "2018258928221781",
+ "base_url": "https://raw.githubusercontent.com/evandroverasted-code/doutoragenda-posts/main/semanas/2026-11-16/out/",
+ "turnos": {
+  "manha": "11:52",
+  "noite": "18:52"
+ },
+ "posts": [
+  {
+   "id": "p1",
+   "data": "2026-11-16",
+   "turno": "manha",
+   "tipo": "carrossel",
+   "tema": "Novembro Roxo — prematuridade: o cuidado continua em casa",
+   "arquivos": [
+    "p1_1.png",
+    "p1_2.png",
+    "p1_3.png",
+    "p1_4.png",
+    "p1_5.png",
+    "p1_6.png"
+   ],
+   "legenda": "Novembro Roxo 💜 Amanhã, 17/11, é o Dia Mundial da Prematuridade. 4 pontos que toda família deveria saber 👇\n\n👶 O que é: é considerado prematuro o bebê que nasce antes das 37 semanas de gestação\n🤰 Pré-natal desde o início: acompanhar a gestação com o médico desde o começo é o primeiro cuidado\n🏠 Depois da alta: crescimento, alimentação, respiração e desenvolvimento seguem sendo acompanhados\n⚠️ Pele amarelada: entre prematuros que voltaram ao hospital nos primeiros 30 dias de vida, a icterícia foi a causa mais comum (DRG Brasil, via Agência Brasil). Na dúvida, procure o pediatra\n\nCuidar cedo faz diferença. Consulta com ginecologista/obstetra ou pediatra em Londrina, sem plano de saúde. Exames com até 50% de desconto*.\n📲 WhatsApp oficial: (43) 98829-7260, ou toque no link da bio\n\nCompartilhe com uma gestante ou uma família de prematuro 💜\nConteúdo informativo, não substitui consulta médica.\n*em relação ao preço particular de tabela.\n\n#londrina #londrinapr #prematuridade #saudedamulher #consultamedica",
+   "publicado": {
+    "instagram": null,
+    "facebook": null
+   }
+  },
+  {
+   "id": "p2",
+   "data": "2026-11-18",
+   "turno": "manha",
+   "tipo": "carrossel",
+   "tema": "Mito ou verdade — exame de PSA (Novembro Azul)",
+   "arquivos": [
+    "p2_1.png",
+    "p2_2.png",
+    "p2_3.png",
+    "p2_4.png",
+    "p2_5.png",
+    "p2_6.png"
+   ],
+   "legenda": "Exame de PSA: o que é mito e o que é verdade? 💙 4 dúvidas do Novembro Azul 👇\n\n❌ MITO: PSA alto é sempre câncer. Outras alterações da próstata, como o aumento benigno e inflamações, também podem elevar o PSA\n✅ VERDADE: é um exame de sangue. O PSA é medido numa coleta comum. Confirme o preparo com o laboratório\n❌ MITO: todo homem precisa fazer já aos 30. A Sociedade Brasileira de Urologia recomenda conversar com o urologista a partir dos 50 anos, ou dos 45 para homens negros e quem tem caso de câncer de próstata na família\n✅ VERDADE: o médico define a frequência. Pode ser todo ano ou a cada alguns anos. Quem decide com você é o urologista\n\nResultado em mãos? Quem interpreta é o médico.\n\nConsulta com urologista em Londrina, sem plano de saúde, e exames com até 50% de desconto*. Orçamento grátis.\n📲 WhatsApp oficial: (43) 98829-7260, ou toque no link da bio\n\nMarque um homem que precisa ver isso 💙\nConteúdo informativo, não substitui consulta médica.\n*em relação ao preço particular de tabela.\n\n#londrina #londrinando #novembroazul #prostata #urologia",
+   "publicado": {
+    "instagram": null,
+    "facebook": null
+   }
+  },
+  {
+   "id": "r3",
+   "data": "2026-11-20",
+   "turno": "noite",
+   "tipo": "reels",
+   "tema": "Oferta — feche o ano com o check-up em dia (exames até 50%*)",
+   "arquivos": [
+    "r3.mp4"
+   ],
+   "legenda": "O ano está acabando. E o seu check-up? 🗓️\n\nExames em Londrina, sem plano de saúde, com até 50% de desconto*. É simples:\n1️⃣ Pedido em mãos: tem o pedido médico? Tire uma foto. Não tem? Agende uma consulta com a gente\n2️⃣ Mande no WhatsApp: envie a foto do pedido para o Doutor Agenda\n3️⃣ Orçamento grátis: você recebe o orçamento e escolhe onde e quando fazer\n\nComece 2027 em dia 💚\n📲 WhatsApp oficial: (43) 98829-7260, ou toque no link da bio\n\nMande para quem está adiando os exames 😉\n*em relação ao preço particular de tabela.\n\n#londrina #londrinaofficial #checkup #exames #medicinapreventiva",
+   "publicado": {
+    "instagram": null,
+    "facebook": null
+   }
+  }
+ ]
+}
