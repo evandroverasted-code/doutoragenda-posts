@@ -167,7 +167,7 @@
       "chave": "2026-11-09/s1",
       "data": "2026-11-10",
       "turno": "noite",
-      "aprovado": false,
+      "aprovado": true,
       "tipo": "short",
       "tema": "Mpox: 665 casos no Brasil em 2026",
       "video_url": "https://raw.githubusercontent.com/evandroverasted-code/doutoragenda-posts/main/semanas/2026-11-09/out/s1.mp4",
@@ -182,7 +182,12 @@
         "sem plano de saúde"
       ],
       "fonte": "https://www.cnnbrasil.com.br/saude/casos-de-mpox-no-brasil-chegam-a-665-em-2026-diz-ministerio-da-saude/",
-      "publicado": null
+      "publicado": {
+        "ok": true,
+        "id": "E8oOR5g2tHg",
+        "url": "https://youtube.com/shorts/E8oOR5g2tHg",
+        "quando": "2026-11-10T21:55:03Z"
+      }
     },
     {
       "chave": "2026-11-09/s2",
