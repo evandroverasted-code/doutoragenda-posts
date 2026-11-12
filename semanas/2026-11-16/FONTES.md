@@ -5,3 +5,8 @@
 - PSA pode subir por condições benignas (hiperplasia, prostatite) — INCA, detecção precoce do câncer de próstata: https://www.gov.br/inca/pt-br/assuntos/cancer/tipos/prostata
 - Novembro Azul 2026 (contexto): https://gtnoticias.com.br/2026/11/novembro-azul-2026-amplia-acesso-a-consultas-e-exames-preventivos-pelo-sus/
 - Reels r3 (oferta check-up): sem dado de saúde; desconto "até 50%*" em relação ao preço particular de tabela (regra da marca).
+
+## YouTube Shorts (pesquisa em 12/11/2026)
+- s1 — Covid-19 em alta há pelo menos seis semanas em 17 estados e no DF, incluindo o Paraná; todas as UFs em baixo risco; boletim do Ministério da Saúde com dados até 04/11 (Forbes Brasil, 10/11/2026): https://forbes.com.br/forbes-saude/2026/11/ministerio-da-saude-alerta-para-alta-de-covid-19-em-18-estados/
+- s1 — Grupos prioritários para a vacina no SUS (crianças pequenas, gestantes, 60+, imunocomprometidos, trabalhadores da saúde); procurar a UBS com a caderneta; infectologista: sem necessidade de alarme (TV Sim, 12/11/2026): https://tvsimbrasil.com.br/brasil/saude/noticia/2026/11/12/covid-alta-quem-deve-se-vacinar-agora-brasil
+- s2 — Anvisa determina apreensão e proibição de suplementos sem notificação/registro vendidos na Shopee e no Mercado Livre (Muuh Magic, Vittacaps, lote falsificado de Ômega 3), com alegações não autorizadas como prevenção de diabetes, tratamento de ansiedade e fortalecimento da imunidade (WSCOM, 10/11/2026): https://wscom.com.br/economia/2026/11/10/anvisa-suspende-venda-de-suplementos-sem-registro-na-shopee-e-mercado-livre/

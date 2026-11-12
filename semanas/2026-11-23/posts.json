@@ -1,0 +1,68 @@
+{
+ "semana": "2026-11-23",
+ "status": "pendente",
+ "instagram_account_id": "17841410873155652",
+ "facebook_page_id": "2018258928221781",
+ "base_url": "https://raw.githubusercontent.com/evandroverasted-code/doutoragenda-posts/main/semanas/2026-11-23/out/",
+ "turnos": {
+  "manha": "11:52",
+  "noite": "18:52"
+ },
+ "posts": [
+  {
+   "id": "p1",
+   "data": "2026-11-23",
+   "turno": "manha",
+   "tipo": "carrossel",
+   "tema": "Novembro — diabetes: 16,6 milhões de adultos no Brasil",
+   "arquivos": [
+    "p1_1.png",
+    "p1_2.png",
+    "p1_3.png",
+    "p1_4.png",
+    "p1_5.png",
+    "p1_6.png"
+   ],
+   "legenda": "16,6 milhões de adultos vivem com diabetes no Brasil, segundo o Atlas da Federação Internacional de Diabetes 💙 Novembro é o mês de falar disso. 4 pontos para ficar de olho 👇\n\n💧 Sede intensa, boca seca e vontade de urinar muitas vezes merecem atenção\n😮‍💨 Cansaço fora do comum, visão embaçada e feridas que demoram a cicatrizar também\n👨‍👩‍👧 Histórico na família, excesso de peso, sedentarismo e idade aumentam o risco\n🩸 Nenhum sinal confirma sozinho: quem pede e avalia o exame de glicemia é o médico\n\nDescobrir cedo faz diferença. Consulta com clínico geral ou endocrinologista em Londrina, sem plano de saúde. Exames com até 50% de desconto*.\n📲 WhatsApp oficial: (43) 98829-7260, ou toque no link da bio\n\nMande para alguém da família que está adiando a consulta 💙\nConteúdo informativo, não substitui consulta médica.\n*em relação ao preço particular de tabela.\n\n#londrina #londrinapr #endocrinologia #clinicamedica #diabetes",
+   "publicado": {
+    "instagram": null,
+    "facebook": null
+   }
+  },
+  {
+   "id": "p2",
+   "data": "2026-11-25",
+   "turno": "manha",
+   "tipo": "carrossel",
+   "tema": "Mito ou verdade — exames de glicose (jejum, glicada)",
+   "arquivos": [
+    "p2_1.png",
+    "p2_2.png",
+    "p2_3.png",
+    "p2_4.png",
+    "p2_5.png",
+    "p2_6.png"
+   ],
+   "legenda": "Exames de glicose: o que é mito e o que é verdade? 🩸 4 dúvidas sobre jejum e diabetes 👇\n\n✅ VERDADE: glicemia pede jejum. Para a glicemia de jejum, o preparo costuma ser de 8 horas. Confirme com o laboratório\n❌ MITO: quanto mais jejum, melhor. Jejum muito longo, acima de 16 horas, não é recomendado e pode atrapalhar o resultado\n✅ VERDADE: hemoglobina glicada não exige jejum. Ela mostra a média da glicose dos últimos meses\n❌ MITO: só quem está acima do peso tem diabetes. Histórico na família, idade e sedentarismo também aumentam o risco\n\nResultado em mãos? Quem interpreta é o médico.\n\nGlicemia e hemoglobina glicada em Londrina, sem plano de saúde, com até 50% de desconto*. Mande a foto do pedido médico e receba o orçamento grátis.\n📲 WhatsApp oficial: (43) 98829-7260, ou toque no link da bio\n\nSalve para lembrar do preparo no dia do exame 📌\nConteúdo informativo, não substitui consulta médica.\n*em relação ao preço particular de tabela.\n\n#londrina #londrinando #exames #exameslaboratoriais #examesderotina",
+   "publicado": {
+    "instagram": null,
+    "facebook": null
+   }
+  },
+  {
+   "id": "r3",
+   "data": "2026-11-27",
+   "turno": "noite",
+   "tipo": "reels",
+   "tema": "Black Friday da saúde — exames até 50%* e consulta com especialista",
+   "arquivos": [
+    "r3.mp4"
+   ],
+   "legenda": "Hoje é Black Friday 🛍️ E a sua saúde? O desconto que vale a pena 👇\n\n1️⃣ Exames até 50%*: desconto em exames de sangue e de imagem, sem plano de saúde\n2️⃣ Especialistas: consulta com especialista em Londrina, agendada pelo WhatsApp\n3️⃣ Orçamento grátis: mande a foto do pedido médico e receba o orçamento\n\nCuide de você, mesmo sem plano 💚\n📲 WhatsApp oficial: (43) 98829-7260, ou toque no link da bio\n\nMarque quem só pensa nas ofertas e esquece dos exames 😉\n*em relação ao preço particular de tabela.\n\n#londrina #londrinaofficial #exames #consultamedica #saudeemprimeirolugar",
+   "publicado": {
+    "instagram": null,
+    "facebook": null
+   }
+  }
+ ]
+}
