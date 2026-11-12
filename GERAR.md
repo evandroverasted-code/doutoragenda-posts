@@ -51,6 +51,8 @@ Mix na semana: pelo menos 1 de exames e 1 de consultas. IDs: `p1` (seg), `p2` (q
   Logo e mascote nunca distorcidos (só `height`). Sem ícones desenhados à mão.
 - Feed 1080x1350 (`page()`), Reels 1080x1920 (`reel()` + `scene()`/`move()`), 10–13 s, sem música.
 - `python3 semanas/<data>/build.py && node engine/render.js semanas/<data>` → `out/*.png|mp4`.
+- Carrosséis: depois de renderizar, `python3 engine/carrossel_video.py semanas/<data>` → `out/<id>_fb.mp4`
+  (versão em vídeo para o Facebook, 3,5 s por slide). Refaça sempre que mudar um slide.
 - **Revise visualmente**: monte uma folha de contatos (PIL) e confira sobreposição de texto/mascote, quebras
   de palavra e corte; nos reels, extraia frames (ffmpeg -ss) de cada cena. Corrija e renderize de novo.
 

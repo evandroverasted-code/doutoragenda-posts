@@ -21,7 +21,12 @@ Rotina executada pela tarefa programada "Doutor Agenda — publicar posts" (seg 
    nomes de parâmetros com `inspect_zapier_actions` (tool_name abaixo).
    - **imagem / carrossel**
      - Instagram: `instagram_for_business_publish_photo_s` → `instagramPageId`, `media` = [urls] (1–10), `caption` = legenda
-     - Facebook: `facebook_pages_create_page_photo` → `page`, `source` = [urls], `message` = legenda
+     - Facebook, **imagem única**: `facebook_pages_create_page_photo` → `page`, `source` = [url], `message` = legenda
+     - Facebook, **carrossel**: NÃO usar `create_page_photo` (sai como amontoado de fotos — decisão do Ted, 12/11/2026).
+       Publique o vídeo dos slides `out/<id>_fb.mp4` com `facebook_pages_create_page_video` → `page`,
+       `source` = base_url + `<id>_fb.mp4`, `description` = legenda (sem `title`).
+       Se o mp4 não existir no repositório, gere com `python3 engine/carrossel_video.py semanas/<data> <id>`,
+       faça commit e push, confira que a URL raw responde 200 e só então publique.
    - **reels** (mp4 1080x1920)
      - Instagram: `instagram_for_business_publish_video` (Reel) → conta fixa, URL do vídeo, legenda
      - Facebook: `facebook_pages_create_page_video` → página fixa, URL do vídeo, descrição = legenda
@@ -50,5 +55,4 @@ Rotina executada pela tarefa programada "Doutor Agenda — publicar posts" (seg 
 ## Regras
 - Nunca turbinar, nunca criar anúncio, nunca gastar.
 - Nunca editar legenda ou arte na hora de publicar; publique exatamente o que foi aprovado.
-- Carrossel no Facebook: sem a leitura de confirmação, não dá para checar se saiu como vários posts separados.
-  Ao publicar um carrossel, lembre o Ted na mensagem final de conferir a página do Facebook.
+- Carrossel no Facebook sai sempre como vídeo dos slides (`<id>_fb.mp4`), nunca como fotos.
