@@ -231,7 +231,12 @@
         "sem plano de saúde"
       ],
       "fonte": "https://forbes.com.br/forbes-saude/2026/11/ministerio-da-saude-alerta-para-alta-de-covid-19-em-18-estados/ ; https://tvsimbrasil.com.br/brasil/saude/noticia/2026/11/12/covid-alta-quem-deve-se-vacinar-agora-brasil",
-      "publicado": null
+      "publicado": {
+        "ok": true,
+        "id": "kGIcNw8EioU",
+        "url": "https://youtube.com/shorts/kGIcNw8EioU",
+        "quando": "2026-11-17T18:54:04-03:00"
+      }
     },
     {
       "chave": "2026-11-16/s2",
