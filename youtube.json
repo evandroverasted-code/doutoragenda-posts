@@ -258,7 +258,12 @@
         "sem plano de saúde"
       ],
       "fonte": "https://wscom.com.br/economia/2026/11/10/anvisa-suspende-venda-de-suplementos-sem-registro-na-shopee-e-mercado-livre/",
-      "publicado": null
+      "publicado": {
+        "ok": true,
+        "id": "Ky1oFr8rhmc",
+        "url": "https://youtube.com/shorts/Ky1oFr8rhmc",
+        "quando": "2026-11-23T14:54:17Z"
+      }
     }
   ],
   "canal_id": "UCl1tl8NrgfZqxif3YO_IpjQ",
