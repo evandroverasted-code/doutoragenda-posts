@@ -68,8 +68,16 @@
       ],
       "legenda": "Hoje é Black Friday 🛍️ E a sua saúde? O desconto que vale a pena 👇\n\n1️⃣ Exames até 50%*: desconto em exames de sangue e de imagem, sem plano de saúde\n2️⃣ Especialistas: consulta com especialista em Londrina, agendada pelo WhatsApp\n3️⃣ Orçamento grátis: mande a foto do pedido médico e receba o orçamento\n\nCuide de você, mesmo sem plano 💚\n📲 WhatsApp oficial: (43) 98829-7260, ou toque no link da bio\n\nMarque quem só pensa nas ofertas e esquece dos exames 😉\n*em relação ao preço particular de tabela.\n\n#londrina #londrinaofficial #exames #consultamedica #saudeemprimeirolugar",
       "publicado": {
-        "instagram": null,
-        "facebook": null
+        "instagram": {
+          "ok": false,
+          "erro": "1ª tentativa: 'Video is still processing'; 2ª tentativa bloqueada pela permissão da sessão automática. Publicar manualmente.",
+          "quando": "2026-11-27T18:58:00-03:00"
+        },
+        "facebook": {
+          "ok": true,
+          "id": "1726758932115128",
+          "quando": "2026-11-27T18:58:00-03:00"
+        }
       }
     }
   ]
